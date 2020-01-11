@@ -39,7 +39,7 @@ anything, let's see if we can build some html::
 If you now point your browser to :file:`build/html/index.html`, you
 should see a basic sphinx site.
 
-.. image:: images/basic_screenshot.png
+.. image:: learn-sphinx/source/basic_screenshot.png
 
 .. _fetching-the-data:
 
